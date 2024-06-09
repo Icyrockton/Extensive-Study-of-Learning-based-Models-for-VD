@@ -154,8 +154,8 @@ Then  use [sklearn](https://scikit-learn.org/)'s tSNE model to explore class sep
 See more code under `RQ/RQ4`
 
 #### result
-![](imgs\statement_types.svg)
-![](imgs\tSNE.svg)
+![](imgs/statement_types.svg)
+![](imgs/tSNE.png)
 
 
 ### D3: Stability of Learning-based Models for Vulnerability Detection
