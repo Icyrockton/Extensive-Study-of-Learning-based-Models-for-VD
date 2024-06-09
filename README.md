@@ -141,7 +141,7 @@ We use different interpretability techniques for different models, e.g., GNNExpl
 
 We obtained the attention value of each token as much as possible and visualized it using HTML, an example of LineVul visualization is shown below
 
-![arc](imgs/linevul_15.jpg)
+![arc](imgs/linevul_15.png)
 <p align="center"> LineVul interpretation result on CVE-2016-15006 </p> 
 
 To get these visualizations, you need to modify the configuration file(e.g. `config.json`) on the trained models so that they run the `do_interpret`.
